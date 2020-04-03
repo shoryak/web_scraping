@@ -1,5 +1,7 @@
 # task 1
-The file webscraping.py contains python code for scraping a web page for name,organisationname and projectname with template similar to
+The file webscraping.py contains python code for scraping a web page for name,organisationname and projectname which has layout similar to
+
+
 https://summerofcode.withgoogle.com/archive/2019/projects/
 
 ## Instructions 
